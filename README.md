@@ -69,7 +69,11 @@ You can modify game behavior by changing the following parameters in the code:
 
 ## Example Screenshots
 
-> Add screenshots here after running the app for visual reference.
+<img width="1033" height="826" alt="image" src="https://github.com/user-attachments/assets/8474eebb-262c-4ef8-a433-1d1be01e5347" />
+
+<img width="1042" height="342" alt="image" src="https://github.com/user-attachments/assets/64a67f15-c953-4b3d-b289-e1d8b4ec5abd" />
+
+
 
 ## Dependencies
 
